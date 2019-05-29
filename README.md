@@ -9,7 +9,7 @@ The source.Cpp project is a collection of various code samples I have written/mo
 
 /libCore
 ========
-A DLL library of utility functions and implementation of pgxx for fast C++ style transational database connections to PostgreSQL.
+A DLL library of utility functions and implementation of [libpgxx](http://pqxx.org/development/libpqxx/) for fast C++ style transational database connections to PostgreSQL.
 
 /testApp
 ========
