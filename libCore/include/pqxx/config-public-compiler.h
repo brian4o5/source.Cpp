@@ -1,0 +1,3 @@
+#define PQXX_PQ_IN_NAMESPACE 1
+//#define PQXX_PQ_STATIC
+//#define PQXX_SHARED
